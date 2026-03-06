@@ -1,37 +1,42 @@
-# Office Innovation Competition – Quiz App Mockup
+# Office Innovation Competition – 3D Quiz App Mockup
 
-This repository contains a **mockup prototype of a 3D quiz application** developed for an Office Innovation Competition. The project focuses on presenting an interactive concept where users answer quiz questions inside a simple 3D environment rendered with Three.js.
+This repository contains a **mockup prototype of a 3D quiz application** developed for an **Office Innovation Competition**. The project demonstrates an experimental approach to quizzes where users interact within a **3D environment powered by Three.js** rather than a traditional form-based interface.
 
 ## Overview
 
-The application demonstrates how a quiz experience can be delivered through a **3D interactive scene** instead of a traditional form-based interface. The purpose of the mockup is to visualize the concept, interaction flow, and potential user experience.
-
-The implementation prioritizes **visual presentation and experimentation** rather than a complete production-ready system.
+The application presents a concept in which quiz questions are integrated into a **3D scene**, allowing users to navigate or interact with objects while answering questions. The focus of this project is **idea presentation, visual interaction, and prototype experimentation**, not a production-ready implementation.
 
 ## Technology
 
-| Technology | Purpose                                 |
-| ---------- | --------------------------------------- |
-| Three.js   | Rendering the 3D scene and interactions |
-| GLB Model  | 3D environment used inside the scene    |
+| Technology | Purpose                                |
+| ---------- | -------------------------------------- |
+| Three.js   | 3D scene rendering and interaction     |
+| GLB Model  | 3D environment asset used in the scene |
+
+## Collaboration
+
+This project was developed in collaboration with:
+
+**Ken-Razor**
+https://github.com/Ken-Razor
 
 ## 3D Model Credit
 
 The 3D model used in this project is a **free GLB asset** created by
-[Tomas Laulhé](https://www.patreon.com/quaternius).
+[Tomas Laulhé](https://www.patreon.com/quaternius)
 
 All credit for the model belongs to the original creator.
 
 ## Scope
 
-This mockup includes:
+The mockup includes:
 
-* Basic 3D environment rendered with Three.js
-* Quiz interaction concept inside the scene
-* Prototype-level UI and interaction flow
+* A basic 3D environment rendered using Three.js
+* Prototype quiz interaction within the scene
+* Conceptual UI flow and experimental features
 
-It may include placeholder content and simplified logic, as the focus of the project is **concept demonstration**.
+The repository may contain **placeholder content, simplified logic, and experimental code**, as its primary purpose is to demonstrate the concept for the competition.
 
 ## Notes
 
-This project was created solely as a **concept demonstration for an innovation competition** and is not intended to represent a finished product.
+This project is intended for **concept demonstration and innovation showcase purposes only** and does not represent a complete or production-ready system.
